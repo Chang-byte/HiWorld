@@ -7,5 +7,6 @@ public class Test {
             绿色： 已经添加到暂存区, 使用commit 添加到本地库
          */
         System.out.println(1);
+        System.out.println(2);
     }
 }
